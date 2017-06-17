@@ -1,0 +1,17 @@
+/*
+Tries Times new roman first, then goes to generic serif
+Tries Verdana first; then goes to generic sans serif
+Tries Comic Sans first, then goes to generic cursive
+*/
+
+h1 {
+    font-family: Times, serif;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Comic Sans MS', cursive;
+}

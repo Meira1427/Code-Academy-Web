@@ -1,0 +1,95 @@
+/* 
+* {
+	border: 2px dashed navy;
+}
+*/
+
+div {
+    font-weight: 1em;
+}
+
+p, li {
+	font-family: Georgia, Times, serif;
+	font-weight: 1.2em;
+	color: #001b1e;
+	margin-left: 28px;
+	margin-bottom: 10px;
+}
+
+#header {
+    height: 60px;
+	width: 99%;
+    background-color: #59908A;
+	position: fixed;
+	z-index: 1;
+	margin-top: -10px;
+	border-radius: 5px;
+}
+
+.name {
+	float: left;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+	padding: 8px 5px 8px 10px;
+	margin: 5px 0 5px 0;
+	color: #f5fdfe;
+}
+
+.email {
+	float: right;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+	padding: 10px 5px 10px 5px;
+	margin: 8px 5px 8px 0;
+	color: #f5fdfe;
+	font-size: .95em;
+}
+
+.title {
+	font-family: Georgia, Times, serif;
+	font-weight: 1.5em;
+	color: #001b1e;
+	margin-left: 20px;
+}
+
+.left {
+    width: 10%;
+    height: 900px;
+	position: relative;
+    float: left;
+    background-color: #226765;
+	margin-top: 50px;
+}
+
+.right {
+    width: 90%;
+    height: 900px;
+	position: relative;
+    float: right;
+    background-color: #A2C5C4;
+	margin-top: 50px;
+}
+
+#footer{
+    clear: both;
+	position: relative;
+    height: 100px;
+	width: 100%;
+    background-color: #064340;
+}
+
+.address {
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	padding: 40px;
+	color: #f5fdfe;
+	font-size: 1em;
+}
+
+/*
+more blues
+518C8A
+B4D3D2
+purple
+422267
+deep green
+226765
+*/
